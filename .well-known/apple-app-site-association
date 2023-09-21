@@ -84,20 +84,8 @@
 			},
 			{
 				"appID": "7JMU3EK8QX.com.paypal.ppclient-development",
-				"components": [{
-						"/": "/shopping",
-						"?": {
-							"campaignId": "?*",
-							"app_hub": "?*",
-							"action": "?*",
-							"utm_campaign": "?*"
-						}
-					},
-					{
-						"/": "/shopping/dashboard/*"
-					}
-				],
 				"paths": [
+					"/shopping/offer/details",
 					"/savings/activity-details",
 					"/savings-autosave",
 					"/myaccount/savings/goal/*",
