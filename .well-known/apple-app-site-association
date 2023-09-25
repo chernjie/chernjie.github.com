@@ -174,7 +174,7 @@
 			{
 				"appID": "727K56WV67.com.paypal.ppclient-development",
 				"paths": [
-					"/shopping",
+					"/shopping/offer/details",
 					"/savings/activity-details",
 					"/savings-autosave",
 					"/myaccount/savings/goal/*",
